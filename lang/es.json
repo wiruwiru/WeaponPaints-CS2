@@ -1,0 +1,30 @@
+{
+  "wp_prefix": "{lightblue}[WeaponPaints] {default}",
+  "wp_info_website": "Visita {lime}{0}{default} donde puedes cambiar los skins",
+  "wp_info_refresh": "Escribe {lime}!wp{default} para sincronizar los skins seleccionados",
+  "wp_info_knife": "Escribe {lime}!knife{default} para abrir el menú de cuchillos",
+  "wp_info_glove": "Escribe {lime}!gloves{default} para abrir el menú de guantes",
+  "wp_info_agent": "Escribe {lime}!agents{default} para abrir el menú de agentes",
+  "wp_info_music": "Escribe {lime}!music{default} para abrir el menú de música",
+  "wp_info_pin": "Escribe {lime}!pins{default} para abrir el menú de pines",
+  "wp_command_cooldown": "{lightred}No puedes actualizar los skins ahora mismo",
+  "wp_command_refresh_done": "{lime}Actualizando skins de armas",
+  "wp_knife_menu_select": "Has elegido {lime}{0}{default} como tu cuchillo",
+  "wp_knife_menu_kill": "",
+  "wp_knife_menu_title": "Menú de Cuchillos",
+  "wp_glove_menu_select": "Has elegido {lime}{0}{default} como tus guantes",
+  "wp_glove_menu_title": "Menú de Guantes",
+  "wp_agent_menu_select": "Has elegido {lime}{0}{default} como tu agente",
+  "wp_agent_menu_title": "Menú de Agentes",
+  "wp_music_menu_title": "Menú de Música",
+  "wp_music_menu_select": "Has elegido {lime}{0}{default} como tu kit de música",
+  "wp_pins_menu_title": "Menú de Pines",
+  "wp_pins_menu_select": "Has elegido {lime}{0}{default} como tu pin",
+  "wp_skin_menu_weapon_title": "Menú de Armas",
+  "wp_skin_menu_skin_title": "Selecciona skin para {lime}{0}{default}",
+  "wp_skin_menu_select": "Has elegido {lime}{0}{default} como tu skin",
+
+  "wp_stattrak_action": "Has cambiado exitosamente la configuración de Stattrak",
+
+  "None": "Ninguno"
+}
